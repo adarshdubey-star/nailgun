@@ -95,6 +95,8 @@ class InitTestCase(TestCase):
                 entities.AbstractComputeResource,
                 entities.AbstractContentViewFilter,
                 entities.ActivationKey,
+                entities.AnsibleRoles,
+                entities.AnsiblePlaybooks,
                 entities.Architecture,
                 entities.ArfReport,
                 entities.Audit,
